@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raphael
 - 👀 I’m interested in backend and mobile development
-- 🌱 I’m currently learning Java & SpringBoot
+- 🌱 I’m currently learning Java & SpringBoot and a touch of JavaScript
 
 
 <!---
